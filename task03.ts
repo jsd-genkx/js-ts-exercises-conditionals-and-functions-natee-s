@@ -4,7 +4,8 @@
 // 11+ chars → "Strong"
 // console.log(password.length);
 
-const password = "pass1234";
+const password = "pass12342";
+// const len = password.length;   เราจะเพิ่มแบบนี้ก็ได้ เนื่องจากเรา password.length ไปใช้หลายครั้ง เก็บค่าในตัวแปรที่ให้ความหมายเหมือนกันจะทำให้ code อ่านง่ายกว่า
 
 if( password.length < 6 ){
     console.log(`the password are ${password.length} it is "Too short"`)
