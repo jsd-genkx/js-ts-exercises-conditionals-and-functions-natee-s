@@ -1,4 +1,4 @@
-const num = 18;
+// const num = 18;
 // TODO-04: Write if/else if to check and print:
 // Divisible by both 3 and 5 → "FizzBuzz"
 // Divisible by only 3 → "Fizz"
